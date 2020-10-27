@@ -17,11 +17,10 @@ The main project uses `Raspberry Pi` as the controller of the segment. The displ
 
 Farhan Fuad Abir, Md. Ahasan Atick Faisal
 
-## Schematic & PCB Layout
 
 ## Schematic
 <p align="center">
-<img src="PCB Designs/V2/schematic.SVG" width="700"/>
+<img src="PCB Designs/V2/schematic.SVG" width="1100"/>
 </p>
 
 ## PCB Layout
@@ -34,13 +33,13 @@ Farhan Fuad Abir, Md. Ahasan Atick Faisal
 ### Normal Mode
 
 <p align="center">
-<img src="https://github.com/atick-faisal/Archer-Clock/blob/master/Screenshot_2018-04-03-20-04-53.png" height="400"/> 
+<img src="https://github.com/atick-faisal/Archer-Clock/blob/master/Screenshot_2018-04-03-20-04-53.png" height="400"> 
 </p>
 
 ### Alternate Mode 
 <p align="center">
-<img src="https://github.com/atick-faisal/Archer-Clock/blob/master/Screenshot_2018-04-03-20-05-36.png" height="400"/>
-<img src="https://github.com/atick-faisal/Archer-Clock/blob/master/Screenshot_2018-04-03-20-05-29.png" height="400"/> 
+<img src="https://github.com/atick-faisal/Archer-Clock/blob/master/Screenshot_2018-04-03-20-05-36.png" height="400">
+<img src="https://github.com/atick-faisal/Archer-Clock/blob/master/Screenshot_2018-04-03-20-05-29.png" height="400"> 
 </p>
 
 ### Settings
@@ -48,6 +47,12 @@ Farhan Fuad Abir, Md. Ahasan Atick Faisal
 <img src="https://github.com/atick-faisal/Archer-Clock/blob/master/Screenshot_2018-04-03-20-05-43.png" height="400"/> 
 </p>
 
+
+## System Diagrams
+
+<p align="center">
+<img src="archerClock_connectivity.svg" width="450"> 
+</p>
 
 
 
