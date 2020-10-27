@@ -17,34 +17,39 @@ The main project uses `Raspberry Pi` as the controller of the segment. The displ
 
 Farhan Fuad Abir, Md. Ahasan Atick Faisal
 
-## Schematic and PCB Designs
+## Schematic & PCB Layout
 
-### Version 1
-
-**Schematic**
-<p align="center">
-<img src="PCB Designs/V1/schematic.SVG" width="700"/>
-</p>
-
-**PCB Layout**
-<p align="center">
-<img src="PCB Designs/V1/pcb_layout.SVG" width="600"/>
-</p>
-
-
-### Version 2
-
-**Schematic**
+## Schematic
 <p align="center">
 <img src="PCB Designs/V2/schematic.SVG" width="700"/>
 </p>
 
-**PCB Layout**
+## PCB Layout
 <p align="center">
 <img src="PCB Designs/V2/pcb_layout.SVG" width="600"/>
 </p>
 
+## Android App Interface
+
+### Normal Mode
+
+<p align="center">
+<img src="https://github.com/atick-faisal/Archer-Clock/blob/master/Screenshot_2018-04-03-20-04-53.png" height="400"/> 
 </p>
+
+### Alternate Mode 
+<p align="center">
+<img src="https://github.com/atick-faisal/Archer-Clock/blob/master/Screenshot_2018-04-03-20-05-36.png" height="400"/>
+<img src="https://github.com/atick-faisal/Archer-Clock/blob/master/Screenshot_2018-04-03-20-05-29.png" height="400"/> 
+</p>
+
+### Settings
+<p align="center">
+<img src="https://github.com/atick-faisal/Archer-Clock/blob/master/Screenshot_2018-04-03-20-05-43.png" height="400"/> 
+</p>
+
+
+
 
 ## Video Demostration
 
