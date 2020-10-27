@@ -5,10 +5,10 @@
 This is a timer system for archery competition developed by Quanfield Technologies. This repository contains the initial functionality demo and the main project codes and designs. 
 
 There are two modes of the timer system: 
-- Single Mode 
+- Normal Mode 
 - Alternate mode
 
-The main project uses `Raspberry Pi` as the controller of the segment. The display controller is custom-made The Schematic and PCB are designed with `Proteus Design Suite`.
+The project used two `Raspberry Pi`s as the controller of the segments. The display controller has been designed with `Proteus Design Suite`. An `MQTT` server was used for maintaining the time-sync among the terminals. The connection to the display are maintained by LAN wires via router. Also, an `Android App` was developed as a wireless control interface.
 
  - <a href="https://github.com/farhanfuadabir/ArcherClock/tree/main/PCB%20Designs">PCB Design Files</a>
  - <a href="https://github.com/atick-faisal/Archer-Clock">Android App</a>
@@ -18,12 +18,12 @@ The main project uses `Raspberry Pi` as the controller of the segment. The displ
 Farhan Fuad Abir, Md. Ahasan Atick Faisal
 
 
-## Schematic
+## Display Drive Schematic
 <p align="center">
 <img src="PCB Designs/V2/schematic.SVG" width="1100"/>
 </p>
 
-## PCB Layout
+## Display Drive PCB Layout
 <p align="center">
 <img src="PCB Designs/V2/pcb_layout.SVG" width="600"/>
 </p>
