@@ -52,7 +52,7 @@ Farhan Fuad Abir, Md. Ahasan Atick Faisal
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=_82nGCiF96M">
-    <img src="thumbnail.png" width="450"/>
+    <img src="thumbnail_1.png" width="450"/>
   </a>
 </p>
 
@@ -61,7 +61,7 @@ Farhan Fuad Abir, Md. Ahasan Atick Faisal
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=EWotnfpleiI">
-    <img src="thumbnail.png" width="450"/>
+    <img src="thumbnail_2.png" width="450"/>
   </a>
 </p>
 
