@@ -2,7 +2,7 @@
 
 # ArcherClock
 
-This is a timer system for archery. This repository contains the initial functionality demo and the main project codes and designs. 
+This is a timer system for archery competition developed by Quanfield Technologies. This repository contains the initial functionality demo and the main project codes and designs. 
 
 There are two modes of the timer system: 
 - Single Mode 
