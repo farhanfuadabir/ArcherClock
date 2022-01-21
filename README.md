@@ -56,7 +56,7 @@ Farhan Fuad Abir, Md. Ahasan Atick Faisal
 
 
 
-## Video Demostration
+## Video Demonstration
 
 ### Normal Mode
 
